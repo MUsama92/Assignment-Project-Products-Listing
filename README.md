@@ -1,8 +1,24 @@
-# Assignment-Project-Products-Listing
+# assignment_project
 
-Instructions:
-1) Download the zip file under Code option.
-2) After unzipping, open project in VSCode. Note: The main folder of project is assignment_project. Open this folder in VSCode.
-3) run command 'npm install' in terminal to install all node modules.
-4) then run command 'npm run serve' to run the project
-5) Kindly contact me if there is any problem in runnning the project 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
